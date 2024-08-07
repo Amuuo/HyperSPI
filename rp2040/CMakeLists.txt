@@ -15,6 +15,7 @@ set(SECOND_SEGMENT_INDEX OFF)
 # If multi-segment is used and it's reversed, set this option to ON to enable reversing
 set(SECOND_SEGMENT_REVERSED OFF)
 
+
 # HyperSPI communication interface with Raspberry Pi
 set(OUTPUT_SPI_DATA_PIN 4)
 set(OUTPUT_SPI_CLOCK_PIN 2)
